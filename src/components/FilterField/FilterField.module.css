@@ -1,0 +1,24 @@
+.filterTitle {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.filterWrapper {
+  width: 350px;
+  margin: 0 auto;
+}
+
+.filterInput div {
+  width: 350px;
+  margin-bottom: 10px;
+  background-color: rgba(100, 110, 123, 0.8);
+}
+
+.filterInput input {
+  color: white;
+}
+
+.filterInput label {
+  color: white;
+}

@@ -1,0 +1,23 @@
+.title {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  color: white;
+}
+
+.img {
+  margin: 0 auto;
+  width: 400px;
+}
+
+.desc {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 50px;
+}
+
+.link {
+  color: red;
+  font-weight: bold;
+}

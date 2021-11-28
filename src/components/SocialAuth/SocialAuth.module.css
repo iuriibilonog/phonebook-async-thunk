@@ -1,0 +1,16 @@
+.fb {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 15px;
+  width: 90px;
+  height: 45px;
+  border-radius: 5px;
+  background-color: #4267b2;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.fbIcon {
+  margin-right: 15px;
+}

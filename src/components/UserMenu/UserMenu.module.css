@@ -1,0 +1,42 @@
+.logo {
+  width: 150px;
+  margin-right: 10px;
+}
+
+.navList {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 10px;
+  border-bottom: 1px solid black;
+  margin-bottom: 30px;
+}
+
+.navItem_left {
+  margin-left: 30px;
+  color: black;
+}
+
+.navItem_right {
+  margin-right: 15px;
+}
+
+.navItem_right:not(:last-child) {
+  margin-left: auto;
+}
+
+.navItem_avatar {
+  margin-right: 15px;
+}
+
+.navItem_btn {
+  margin-right: 15px;
+  align-items: center;
+  background-color: red;
+}
+
+.btnName {
+  margin-right: 10px;
+  text-transform: none;
+}

@@ -1,0 +1,11 @@
+.app {
+  margin: 20px auto;
+  width: 900px;
+  min-height: 700px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.2);
+  background-image: url("./img/bg.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
